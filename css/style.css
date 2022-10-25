@@ -271,6 +271,7 @@ hr{
 
 .padding-right{
     padding-right: 15px;
+    cursor: pointer;
 }
 
 /* fine menu */
