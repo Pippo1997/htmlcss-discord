@@ -265,7 +265,12 @@ hr{
 }
 
 .logosocial{
-    width: 150px;
+    width: 40px;
+    display: flex;
+}
+
+.padding-right{
+    padding-right: 15px;
 }
 
 /* fine menu */
